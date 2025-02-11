@@ -49,7 +49,7 @@ Temos uma equipe apaixonada e altamente qualificada, comprometida em criar o mel
   **Programação e Interface (Front-end)** – Responsável pela interface gráfica e sua integração com as APIs, assegurando uma experiência fluida e eficiente ao usuário.
 
 - **[Victor Melo](https://github.com/Victor0041)** 📊  
-  **Diagramas de Classes** – Responsável por criar e estruturar os diagramas de classes do sistema, representando as relações entre os objetos e as classes de forma clara e eficaz.
+  **Diagramas de Classes e Criação de Contas** – Responsável por criar e estruturar os diagramas de classes do sistema, representando as relações entre os objetos e as classes de forma clara e eficaz.
 
 ---
 
